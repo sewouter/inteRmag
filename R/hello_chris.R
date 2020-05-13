@@ -1,6 +1,6 @@
 #' @title Hello guys
 #'
-#' @description This should be straightforward
+#' @description This should be straightforward, no ?
 #'
 #' @param x The first letter of your family name
 #'
