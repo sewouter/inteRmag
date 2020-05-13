@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589367946601.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2316257155",
+    "id" : "A219E82B",
+    "lastKnownWriteTime" : 1589366911,
+    "last_content_update" : 1589366911,
+    "path" : "C:/Users/Seb/Desktop/CycloCross/inteRmag/R/hello_chris.R",
+    "project_path" : "R/hello_chris.R",
+    "properties" : {
+        "cursorPosition" : "24,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
