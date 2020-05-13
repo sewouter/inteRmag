@@ -10,7 +10,7 @@ hello_chris(x = "w")
 \item{x}{The first letter of your family name}
 }
 \description{
-This should be straightforward
+This should be straightforward, no ?
 }
 \examples{
 hello_chris("z")
