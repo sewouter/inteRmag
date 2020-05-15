@@ -2,7 +2,7 @@
 % Please edit documentation in R/hello_chris.R
 \name{hello_chris}
 \alias{hello_chris}
-\title{Hello guys}
+\title{Hello you brilliant people}
 \usage{
 hello_chris(x = "w")
 }

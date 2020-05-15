@@ -1,4 +1,4 @@
-#' @title Hello guys
+#' @title Hello you brilliant people
 #'
 #' @description This should be straightforward, no ?
 #'
@@ -22,3 +22,4 @@ hello_chris <- function(x = "w") {
   }
 
 }
+
